@@ -1,5 +1,8 @@
+# BLACKJACK GAME WITH GUI
+
 This project was done by Ongun Uzay Macar as a final project for Advanced Programming (high school class) 
-in January 2016 in the guidance of Cengiz Agalar.
+in January 2016 in the guidance of Cengiz Agalar. It is the Java implementation of the popular card game 
+BlackJack supplemented with a graphical user interface.
 
 SCREENSHOTS:
 ![Screenshot](screenshots/mainpage.png)
