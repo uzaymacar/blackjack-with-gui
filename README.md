@@ -1,6 +1,9 @@
 This project was done by Ongun Uzay Macar as a final project for Advanced Programming (high school class) 
 in January 2016 in the guidance of Cengiz Agalar.
 
+SCREENSHOTS:
+![Screenshot](screenshots/mainpage.png)
+
 DIRECTORIES:
 
 src: This directory contains all the Java source files (classes) that are detailed below.
