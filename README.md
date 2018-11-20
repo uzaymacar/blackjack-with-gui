@@ -12,8 +12,8 @@ BlackJack supplemented with a graphical user interface.
 ![Screenshot](screenshots/gameexample2.png)
 
 ## DIRECTORIES:
-src: This directory contains all the Java source files (classes) that are detailed below.
-images: This directory contains images that will be displayed to the player to enhance gameplay.
+src: This directory contains all the Java source files (classes) that are detailed below. 
+images: This directory contains images that will be displayed to the player to enhance gameplay. 
 sounds: This directory contains sounds that will enhance user gameplay and add in a casino ambience.
 
 ## CLASSES AND DESCRIPTIONS:
