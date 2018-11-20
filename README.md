@@ -7,7 +7,7 @@ BlackJack supplemented with a graphical user interface.
 SCREENSHOTS:
 ![Screenshot](screenshots/mainpage.png)
 ![Screenshot](screenshots/gamedescription.png)
-![Screenshot](screenshots/unitinializedgame.png)
+![Screenshot](screenshots/uninitializedgame.png)
 ![Screenshot](screenshots/gameexample1.png)
 ![Screenshot](screenshots/gameexample2.png)
 
