@@ -12,11 +12,11 @@ BlackJack supplemented with a graphical user interface.
 ![Screenshot](screenshots/gameexample2.png)
 
 ## DIRECTORIES
-src: This directory contains all the Java source files (classes) that are detailed below.  
+```src```: This directory contains all the Java source files (classes) that are detailed below.  
 
-images: This directory contains images that will be displayed to the player to enhance gameplay.
+```images```: This directory contains images that will be displayed to the player to enhance gameplay.
 
-sounds: This directory contains sounds that will enhance user gameplay and add in a casino ambience.
+```sounds```: This directory contains sounds that will enhance user gameplay and add in a casino ambience.
 
 ## CLASSES AND DESCRIPTIONS
 ```Card.java```->Card Class: This class is for the card itself. The printCard method prints the cards which are stored in a 2D
